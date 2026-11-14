@@ -1,0 +1,545 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "name": "Ward 01 - West Channel",
+        "floodedPct": 48.6,
+        "croplandKm2": 6.4,
+        "buildingsExposed": 612
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.6218,
+              26.21473
+            ],
+            [
+              91.65,
+              26.21287
+            ],
+            [
+              91.6782,
+              26.21473
+            ],
+            [
+              91.6782,
+              26.2586
+            ],
+            [
+              91.65,
+              26.26047
+            ],
+            [
+              91.6218,
+              26.2586
+            ],
+            [
+              91.6218,
+              26.21473
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "name": "Ward 02 - North Tributary",
+        "floodedPct": 31.2,
+        "croplandKm2": 4.1,
+        "buildingsExposed": 245
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.6818,
+              26.21473
+            ],
+            [
+              91.71,
+              26.21473
+            ],
+            [
+              91.7382,
+              26.21473
+            ],
+            [
+              91.7382,
+              26.2586
+            ],
+            [
+              91.71,
+              26.2586
+            ],
+            [
+              91.6818,
+              26.2586
+            ],
+            [
+              91.6818,
+              26.21473
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "name": "Ward 03 - Confluence North",
+        "floodedPct": 42.9,
+        "croplandKm2": 5.8,
+        "buildingsExposed": 488
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.7418,
+              26.21473
+            ],
+            [
+              91.77,
+              26.2166
+            ],
+            [
+              91.7982,
+              26.21473
+            ],
+            [
+              91.7982,
+              26.2586
+            ],
+            [
+              91.77,
+              26.25673
+            ],
+            [
+              91.7418,
+              26.2586
+            ],
+            [
+              91.7418,
+              26.21473
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "name": "Ward 04 - East Oxbow",
+        "floodedPct": 26.4,
+        "croplandKm2": 3.9,
+        "buildingsExposed": 194
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.8018,
+              26.21473
+            ],
+            [
+              91.83,
+              26.21287
+            ],
+            [
+              91.8582,
+              26.21473
+            ],
+            [
+              91.8582,
+              26.2586
+            ],
+            [
+              91.83,
+              26.26047
+            ],
+            [
+              91.8018,
+              26.2586
+            ],
+            [
+              91.8018,
+              26.21473
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "name": "Ward 05 - Riverbend Crossing",
+        "floodedPct": 54.8,
+        "croplandKm2": 4.6,
+        "buildingsExposed": 834
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.6218,
+              26.16807
+            ],
+            [
+              91.65,
+              26.16807
+            ],
+            [
+              91.6782,
+              26.16807
+            ],
+            [
+              91.6782,
+              26.21193
+            ],
+            [
+              91.65,
+              26.21193
+            ],
+            [
+              91.6218,
+              26.21193
+            ],
+            [
+              91.6218,
+              26.16807
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "name": "Ward 06 - Central Floodplain",
+        "floodedPct": 61.3,
+        "croplandKm2": 8.2,
+        "buildingsExposed": 1120
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.6818,
+              26.16807
+            ],
+            [
+              91.71,
+              26.16993
+            ],
+            [
+              91.7382,
+              26.16807
+            ],
+            [
+              91.7382,
+              26.21193
+            ],
+            [
+              91.71,
+              26.21007
+            ],
+            [
+              91.6818,
+              26.21193
+            ],
+            [
+              91.6818,
+              26.16807
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "name": "Ward 07 - Old Market Bank",
+        "floodedPct": 39.5,
+        "croplandKm2": 2.7,
+        "buildingsExposed": 745
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.7418,
+              26.16807
+            ],
+            [
+              91.77,
+              26.1662
+            ],
+            [
+              91.7982,
+              26.16807
+            ],
+            [
+              91.7982,
+              26.21193
+            ],
+            [
+              91.77,
+              26.2138
+            ],
+            [
+              91.7418,
+              26.21193
+            ],
+            [
+              91.7418,
+              26.16807
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "name": "Ward 08 - Lower Levee East",
+        "floodedPct": 44.1,
+        "croplandKm2": 5.3,
+        "buildingsExposed": 530
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.8018,
+              26.16807
+            ],
+            [
+              91.83,
+              26.16807
+            ],
+            [
+              91.8582,
+              26.16807
+            ],
+            [
+              91.8582,
+              26.21193
+            ],
+            [
+              91.83,
+              26.21193
+            ],
+            [
+              91.8018,
+              26.21193
+            ],
+            [
+              91.8018,
+              26.16807
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "name": "Ward 09 - South Backwater",
+        "floodedPct": 37.8,
+        "croplandKm2": 7.1,
+        "buildingsExposed": 318
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.6218,
+              26.1214
+            ],
+            [
+              91.65,
+              26.12327
+            ],
+            [
+              91.6782,
+              26.1214
+            ],
+            [
+              91.6782,
+              26.16527
+            ],
+            [
+              91.65,
+              26.1634
+            ],
+            [
+              91.6218,
+              26.16527
+            ],
+            [
+              91.6218,
+              26.1214
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "name": "Ward 10 - Paddy Terrace",
+        "floodedPct": 29.4,
+        "croplandKm2": 6.9,
+        "buildingsExposed": 162
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.6818,
+              26.1214
+            ],
+            [
+              91.71,
+              26.11953
+            ],
+            [
+              91.7382,
+              26.1214
+            ],
+            [
+              91.7382,
+              26.16527
+            ],
+            [
+              91.71,
+              26.16713
+            ],
+            [
+              91.6818,
+              26.16527
+            ],
+            [
+              91.6818,
+              26.1214
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "name": "Ward 11 - Canal Basin",
+        "floodedPct": 19.7,
+        "croplandKm2": 3.2,
+        "buildingsExposed": 118
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.7418,
+              26.1214
+            ],
+            [
+              91.77,
+              26.1214
+            ],
+            [
+              91.7982,
+              26.1214
+            ],
+            [
+              91.7982,
+              26.16527
+            ],
+            [
+              91.77,
+              26.16527
+            ],
+            [
+              91.7418,
+              26.16527
+            ],
+            [
+              91.7418,
+              26.1214
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "name": "Ward 12 - Upland Ridge",
+        "floodedPct": 11.4,
+        "croplandKm2": 1.8,
+        "buildingsExposed": 64
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              91.8018,
+              26.1214
+            ],
+            [
+              91.83,
+              26.12327
+            ],
+            [
+              91.8582,
+              26.1214
+            ],
+            [
+              91.8582,
+              26.16527
+            ],
+            [
+              91.83,
+              26.1634
+            ],
+            [
+              91.8018,
+              26.16527
+            ],
+            [
+              91.8018,
+              26.1214
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

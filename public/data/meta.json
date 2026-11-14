@@ -1,0 +1,13 @@
+{
+  "eventName": "Simulated Monsoon Flood Event (Mock AOI)",
+  "region": "Synthetic River Basin — Placeholder [BBOX]",
+  "bbox": [
+    91.62,
+    26.12,
+    91.86,
+    26.26
+  ],
+  "preDate": "2026-10-08",
+  "postDate": "2026-10-20",
+  "mock": true
+}

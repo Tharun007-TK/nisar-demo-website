@@ -1,0 +1,16 @@
+{
+  "floodedKm2": 142.8,
+  "croplandKm2": 60,
+  "buildingsExposed": 5430,
+  "validation": {
+    "iou": 0.74,
+    "precision": 0.83,
+    "recall": 0.87,
+    "notes": [
+      "Dense urban blocks can trigger false-positive flood alerts from persistent corner-reflector double-bounce.",
+      "Smooth asphalt runways and dry sandbars occasionally mimic open-water specular backscatter (<-22 dB).",
+      "12-day NISAR repeat cycle may miss rapid flash-flood peaks occurring between descending/ascending passes.",
+      "Validation metrics above are synthetic mock placeholders until ground-truth optical reference polygons are ingested."
+    ]
+  }
+}

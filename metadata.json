@@ -1,0 +1,6 @@
+{
+  "name": "NISAR Flood Impact Dashboard",
+  "description": "NASA Space Apps NISAR Flood Impact Dashboard for pre/post L-band SAR backscatter comparison, ward exposure ranking, and rainfall correlation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
